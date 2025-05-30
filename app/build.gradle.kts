@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.romm.navi"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.romm.navi"
